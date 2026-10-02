@@ -1,6 +1,6 @@
 <img width="1152" height="1536" alt="Life Fitness ICG IC6 indoor bike console and electronics used for custom I2C controller integration" src="https://github.com/user-attachments/assets/643c8f90-a7e4-4bbb-b359-8706f9bb579a" />
 
-<img width="1447" height="1087" alt="ChatGPT Image Sep 30, 2026, 09_03_52 AM" src="https://github.com/user-attachments/assets/a77466a1-6353-4e53-a517-3aadc3ca91b3" />
+<img width="1447" height="1087" alt="Life Fitness ICG IC6 I2C interface project with custom controller and dashboard" src="https://github.com/user-attachments/assets/a77466a1-6353-4e53-a517-3aadc3ca91b3" />
 
 # Life Fitness / ICG IC6 I²C Interface
 
