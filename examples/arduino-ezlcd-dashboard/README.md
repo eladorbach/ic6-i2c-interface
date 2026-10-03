@@ -1,3 +1,4 @@
+<img width="4032" height="3024" alt="IMG_1422" src="https://github.com/user-attachments/assets/734dc46a-2417-406d-a7e4-319b55058349" />
 # Arduino + ezLCD 320×240 IC6 dashboard
 
 A live 320×240 dashboard for the Life Fitness / ICG IC6 using an **Arduino Uno** and an **EarthLCD arLCD / ezLCD 3xx** display.
