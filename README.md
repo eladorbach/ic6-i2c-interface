@@ -193,7 +193,7 @@ The goal is simple: make the Life Fitness / ICG IC6 easy to integrate with custo
 
 A small Arduino can be used as a basic reader, while a larger ESP32, Raspberry Pi, Jetson, or other SBC can use the same packets for a full touchscreen console.
 
-More hardware projects and build documentation are available at my blog elad orbach **[eladorbach.com](https://eladorbach.com)**.
+More hardware projects and build documentation are available on my blog elad orbach **[eladorbach.com](https://eladorbach.com)**.
 
 ## License
 
